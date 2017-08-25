@@ -9,7 +9,7 @@
     chcp 1251 //изменение кодировки в cmd для вывода русского языка
     cd %Project root%
     gradle build
-    java -jar build\libs\Task2.jar
+    java -jar build\libs\Task3.jar
 
 В консоле необходимо набрать слово на русской расскладке и нажать Enter.
 Проверок на дурака нет, полагаем, что пользователь идеален.
